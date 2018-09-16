@@ -1,0 +1,43 @@
+!Package
+Id: 49f41291-5fc6-4b22-96ee-5944a70bbada
+SerializedVersion: {Assets: 0.0.4}
+Meta:
+    Name: MusicExample
+    Version: 1.0.0.0
+    Authors: []
+    Owners: []
+    RootNamespace: MusicExample
+    Dependencies:
+        -   Name: Xenko
+            Version: 3.0.0.4
+            RootAssets: []
+LocalDependencies: []
+Profiles:
+    -   Name: Shared
+        Platform: Shared
+        InheritProfiles: []
+        AssetFolders:
+            -   Path: Assets/Shared
+            -   Path: MusicExample.Game/Effects
+        ResourceFolders:
+            - Resources
+        OutputGroupDirectories: {}
+        ProjectReferences:
+            -   Id: 11cec939-2bdc-493e-b54a-bb7fc832cb1b
+                Location: MusicExample.Game/MusicExample.Game.csproj
+                Type: Library
+    -   Name: Windows
+        Platform: Windows
+        InheritProfiles: []
+        AssetFolders:
+            -   Path: Assets/Windows
+        ResourceFolders: []
+        OutputGroupDirectories: {}
+        ProjectReferences:
+            -   Id: 93b06ff9-3926-4c74-a6cd-2f00d8aa00e6
+                Location: MusicExample.Windows/MusicExample.Windows.csproj
+                Type: Executable
+ExplicitFolders: []
+Bundles: []
+TemplateFolders: []
+RootAssets: []

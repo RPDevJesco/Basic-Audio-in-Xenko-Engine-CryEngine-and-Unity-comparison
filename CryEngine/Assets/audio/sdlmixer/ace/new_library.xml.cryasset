@@ -1,0 +1,8 @@
+<AssetMetadata version="0" type="Xml" guid="e6d6e5b8-3f72-7b3e-817e-d817f07f73c6">
+ <Files>
+  <File path="new_library.xml"/>
+ </Files>
+ <Details>
+  <Detail name="rootTag">AudioSystemData</Detail>
+ </Details>
+</AssetMetadata>

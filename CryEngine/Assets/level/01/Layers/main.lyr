@@ -1,0 +1,14 @@
+<ObjectLayer>
+ <Layer Name="Main" FullName="Main" GUID="8db0ae11-864e-4235-f4df-d4901d57e8b1" Hidden="0" Frozen="0" Expanded="0" Type="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1">
+  <LayerObjects>
+   <Object Type="EmptyEntity" Layer="Main" LayerGUID="8db0ae11-864e-4235-f4df-d4901d57e8b1" Id="5fd4e726-e286-f309-22c3-27f5cb105a82" Name="Entity-1" Pos="512.03723,517.08453,31.999268" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Entity" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component CryXmlVersion="2" TypeGUID="684bba77-fda7-a5d4-dabe-f42b81bacf5b" TypeName="BasicMusic" GUID="b2e5c1b8-76a3-ccc6-7610-1f6ecea9aac4" Name="" UserAdded="true">
+      <properties />
+     </Component>
+    </Components>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

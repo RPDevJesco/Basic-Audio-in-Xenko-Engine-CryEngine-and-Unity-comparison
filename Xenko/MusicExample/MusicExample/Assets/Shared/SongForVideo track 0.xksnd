@@ -1,0 +1,8 @@
+!Sound
+Id: 9297bb8a-cb48-452f-b465-034862565f6c
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../Unity/AudioExample/Assets/Music/SongForVideo.mp3
+SampleRate: 48000
+StreamFromDisk: true
+Spatialized: true
